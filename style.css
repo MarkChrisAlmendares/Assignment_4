@@ -1,0 +1,19 @@
+/*font-family: 'Itim', cursive;
+font-family: 'New Tegomin', serif;
+*/
+
+h1{
+    font-family: 'New Tegomin', serif;
+    font-weight: 900;
+    font-size: 4rem;
+}
+
+h3{
+    font-family: 'New Tegomin', serif;
+    font-weight: 900;
+    color: cornsilk;
+}
+#title{
+    background-color: #046582;
+    
+}
